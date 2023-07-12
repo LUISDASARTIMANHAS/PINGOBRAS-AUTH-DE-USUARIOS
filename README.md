@@ -15,10 +15,15 @@ Login de usuários existentes para acessar o sistema.
 
 # Tecnologias Utilizadas:
 Banco de Dados: Json
+
 Front-end: HTML, CSS, JavaScript
+
 Backend: Node.js
+
 Controle de Versão: Git
+
 Fluxo de Funcionamento:
+
 O usuário acessa o site e tem a opção de fazer login ou se registrar.
 Após o login ou registro, o usuário é redirecionado para a página principal do sistema.
 Na página principal, o usuário pode visualizar Seu perfil e demais dados.
