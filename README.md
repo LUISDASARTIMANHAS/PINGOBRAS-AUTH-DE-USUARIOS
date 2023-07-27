@@ -20,7 +20,7 @@ Login de usuários existentes para acessar o sistema.
 ***
 
 # Tecnologias Utilizadas:
-Banco de Dados: Json
+Banco de Dados Simulado: Json
 
 Front-end: HTML, CSS, JavaScript
 
