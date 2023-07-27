@@ -1,0 +1,25 @@
+{
+  "name": "pingobras-auth-de-usuarios",
+  "version": "0.1.0",
+  "description": "O objetivo deste projeto é desenvolver um sistema web para gerenciamento de usuarios. O sistema permitirá que os usuários se cadastrem, façam login em suas contas e gerenciem seu perfil e dados de forma eficiente.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.2",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "path": "^0.12.7",
+    "bootstrap": "^5.3.1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
