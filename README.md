@@ -1,7 +1,7 @@
 # PINGOBRAS-AUTH-DE-USUARIOS
 PINGOBRAS AUTENTICAÇÃO DE USUARIOS
 
-O objetivo deste projeto é desenvolver um sistema web para gerenciamento de tarefas. O sistema permitirá que os usuários se cadastrem, façam login em suas contas e gerenciem suas tarefas de forma eficiente.
+O objetivo deste projeto é desenvolver um sistema web para gerenciamento de usuarios. O sistema permitirá que os usuários se cadastrem, façam login em suas contas e gerenciem seu perfil e dados de forma eficiente.
 
 Website
 
