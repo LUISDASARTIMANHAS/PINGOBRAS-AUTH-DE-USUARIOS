@@ -14,7 +14,7 @@
     "bootstrap": "^5.3.1"
   },
   "engines": {
-    "node": "14.x"
+    "node": "22.x"
   },
   "license": "MIT",
   "keywords": [
